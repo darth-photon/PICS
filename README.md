@@ -1,10 +1,12 @@
-# PICSHEP: Particle Interactions Cascade equation Solver for High Energy Physics
+# PICS: Particle Interactions Cascade equation Solver
 
 **Author: ShivaSankar K.A シヴァサンカール**
 
+**Affiliation: 素粒子論研究、北海道大学**
+
 # Introduction
 
-I present the numerical package **P**article **I**nteractions **C**ascade equation **S**olver for **H**igh **E**nergy **P**hysics, or **PICSHEP**, that can be used to estimate bounds on new physics parameters from interactions in astrophysical and cosmological sources. Two example files have also been provided that show all the options available. 
+I present the numerical package **P**article **I**nteractions **C**ascade equation **S**olver, a.k.a **PICS**, that can be used to estimate bounds on new physics parameters from interactions in astrophysical and cosmological sources. Two example models have also been provided that demonstrate all the options available. 
 
 # Installation
 
@@ -16,6 +18,7 @@ Once you have installed Python or Julia, you can clone this repository by runnin
 
 # Paper
 
+The paper where this package was used can be found at [arxiv](https://arxiv.org/pdf/2308.14483.pdf)
 
 # Usage
 
